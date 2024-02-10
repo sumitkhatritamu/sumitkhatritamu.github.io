@@ -1,4 +1,4 @@
-# PhD Candidate
+# PhD Candidate at Texas A&M University
 
 ### Education
 - Materials Science & Engineering, PhD
