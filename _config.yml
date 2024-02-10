@@ -1,9 +1,6 @@
 title: Sumit Khatri
 logo: /assets/img/Profile_Pic.jpg
 description: Explore to learn more about my work.
-Please Contact for Resume.
-Email: sumitkhatri@tamu.edu
 #show_downloads: true
 theme: jekyll-theme-minimal
-github:
-  is_project_page: false
+classes: wide
