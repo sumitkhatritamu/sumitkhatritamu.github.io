@@ -1,4 +1,4 @@
-# Sumit Khatri
+# PhD Candidate
 
 ### Education
 Materials Science & Engineering, PhD
