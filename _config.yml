@@ -1,6 +1,13 @@
 title: Sumit Khatri
 logo: /assets/img/Profile_Pic.jpg
-description: Explore to learn more about my work.
+description:> # your text below (remove <br> elements if you don't need line breaks)
+  Explore to know more about my work!
+  <br><br>  
+  Please Contact for Resume. 
+    <br><br>  
+    Email: sumitkhatri@tamu.edu
+  <br><br>
+  <a href="https://www.linkedin.com/in/johnodonnell93">View LinkedIn Profile</a>
 #show_downloads: true
 theme: jekyll-theme-minimal
 classes: wide
