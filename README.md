@@ -1,9 +1,9 @@
 # PhD Candidate
 
 ### Education
-Materials Science & Engineering, PhD
-Aerospace Engineering, MS
-Aerospace Engineering, BTech
+- Materials Science & Engineering, PhD
+- Aerospace Engineering, MS
+- Aerospace Engineering, BTech
 
 ### Work Experience
 Graduate Assistant Research
