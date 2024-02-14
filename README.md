@@ -6,13 +6,13 @@ https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/c4
 
 <br><br>  
 ### [Textured Polymer Scratch Modeling](Texture_Scratch.md)
-<img src="assets/img/Texture.JPG?raw=true" width="60%" height="60%">
+<img src="assets/img/Texture.JPG?raw=true" width="100%" height="100%">
 
 <br><br>  
 ### [Algae Biofilm Induced Surface Erosion in Acrylic Coatings](Algae_Erosion.md)
-<img src="assets/img/Algae.JPG?raw=true" width="60%" height="60%">
+<img src="assets/img/Algae.JPG?raw=true" width="100%" height="100%">
 
 <br><br>  
 ### [Machine Learning based Scratch Characterization](Machine_Learning.md)
-<img src="assets/img/Machine.JPG?raw=true" width="60%" height="60%">
+<img src="assets/img/Machine.JPG?raw=true" width="100%" height="100%">
 
