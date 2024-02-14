@@ -1,7 +1,6 @@
 ## My Projects
 
 
-<br><br>  
 ### [Polymer Virtual Scratch Performance and Visibility Analysis](Scratch_Visibility.md)
 <img src="assets/img/Blakc_Box.gif?raw=true" width="60%" height="60%">
 
