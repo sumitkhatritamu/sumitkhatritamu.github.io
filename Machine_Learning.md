@@ -1,1 +1,1 @@
-
+Utilizing convolution neural networks (CNN) to indentify and characterize the scratch generated on the polymeric surfaces. With the ultimate goal of combining CNN model with FEA and virtual reality based scratch generation and visibility analysis.
