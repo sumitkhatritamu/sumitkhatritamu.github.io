@@ -3,7 +3,7 @@
 
 <br><br>  
 ### [Polymer Virtual Scratch Performance and Visibility Analysis](Scratch_Visibility.md)
-<img src="assets/Video/Black_Box.mp4?raw=true" width="60%" height="60%">
+https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/blob/main/assets/videos/Black_Box.mp4
 
 <br><br>  
 ### [Textured Polymer Scratch Modeling](Texture_Scratch.md)
