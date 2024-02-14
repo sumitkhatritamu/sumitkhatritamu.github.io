@@ -2,7 +2,7 @@
 
 
 ### [Polymer Virtual Scratch Performance and Visibility Analysis](Scratch_Visibility.md)
-<img src="[https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/c47618c5-9686-4c1c-a75d-d3e56467b309?raw=true" width="60%" height="60%">
+https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/c47618c5-9686-4c1c-a75d-d3e56467b309
 
 <br><br>  
 ### [Textured Polymer Scratch Modeling](Texture_Scratch.md)
