@@ -2,8 +2,7 @@
 
 
 ### [Polymer Virtual Scratch Performance and Visibility Analysis](Scratch_Visibility.md)
-https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/c47618c5-9686-4c1c-a75d-d3e56467b309
-![Black_Box](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/1489b587-f544-4280-8dd6-d0cce7d7e676)
+![Black_Box](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/5c6e5789-75aa-4360-9550-99f4f9314532)
 
 
 <br><br>  
