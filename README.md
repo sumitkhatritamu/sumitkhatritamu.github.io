@@ -2,7 +2,7 @@
 
 
 
-### [Polymer Virtual Scratch Performance and Visibility Analysis](Scratch Visibility.md)
+### [Polymer Virtual Scratch Performance and Visibility Analysis](Scratch_Visibility.md)
 <img src="assets/img/Profile_Pic2.jpg?raw=true" width="60%" height="60%">
 
 ### [Textured Polymer Scratch Modeling](assets/pdf/Machine Learning.pdf)
