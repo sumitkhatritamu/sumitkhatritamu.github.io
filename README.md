@@ -12,11 +12,6 @@
 <img src="assets/img/Texture.JPG?raw=true" width="100%" height="100%">
 
 <br><br>  
-### [Algae Biofilm Induced Surface Erosion in Acrylic Coatings](Algae_Erosion.md)
-<br>
-<img src="assets/img/Algae.JPG?raw=true" width="100%" height="100%">
-
-<br><br>  
 ### [Modeling the Effect of Color and Gloss on Scratch Visibility](Machine_Learning.md)
 <br>
 <img src="assets/img/Machine.JPG?raw=true" width="100%" height="100%">
@@ -26,4 +21,7 @@
 <br>
 <img src="assets/img/Machine.JPG?raw=true" width="100%" height="100%">
 
-
+<br><br>  
+### [Algae Biofilm Induced Surface Erosion in Acrylic Coatings](Algae_Erosion.md)
+<br>
+<img src="assets/img/Algae.JPG?raw=true" width="100%" height="100%">
