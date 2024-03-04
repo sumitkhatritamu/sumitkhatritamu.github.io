@@ -12,7 +12,7 @@
 <img src="assets/img/Texture.JPG?raw=true" width="100%" height="100%">
 
 <br><br>  
-### [Modeling the Effect of Color and Gloss on Scratch Visibility](Machine_Learning.md)
+### [Modeling the Effect of Color and Gloss on Scratch Visibility](Scratch_Color_and_Gloss.md)
 <br>
 <img src="assets/img/PC_Scratch_Visibility.JPG?raw=true" width="100%" height="100%">
 
