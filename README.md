@@ -14,14 +14,15 @@
 <br><br>  
 ### [Modeling the Effect of Color and Gloss on Scratch Visibility](Machine_Learning.md)
 <br>
-<img src="assets/img/Machine.JPG?raw=true" width="100%" height="100%">
+<img src="assets/img/PC_Scratch_Visibility.JPG?raw=true" width="100%" height="100%">
 
-<br><br>  
-### [Machine Learning based Scratch Characterization](Machine_Learning.md)
-<br>
-<img src="assets/img/Machine.JPG?raw=true" width="100%" height="100%">
 
 <br><br>  
 ### [Algae Biofilm Induced Surface Erosion in Acrylic Coatings](Algae_Erosion.md)
 <br>
 <img src="assets/img/Algae.JPG?raw=true" width="100%" height="100%">
+
+<br><br>  
+### [Machine Learning based Scratch Characterization](Machine_Learning.md)
+<br>
+<img src="assets/img/Machine.JPG?raw=true" width="100%" height="100%">
