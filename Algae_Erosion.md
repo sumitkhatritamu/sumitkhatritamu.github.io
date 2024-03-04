@@ -7,3 +7,6 @@ Three distinct damage features in sequence were observed: (1) pit formation on t
 <img src="assets/img/Algae pull.JPG?raw=true" width="100%" height="100%">
 <br> <br>
 Adhesion of the biofilm to the coating surface, drying of the biofilm, and thickness of the biofilm are the critical factors that govern the erosion on the coating surfaces. The effect of the wet-dry cycle time period was studied with respect to the surface erosion of the coatings. The mechanisms of biofilm-induced erosion during wet-dry cycling are postulated based on the mechanics and experimental observations. A new accelerated testing methodology for evaluating long-term roof coating performance is proposed.
+<br> <br>
+<img src="assets/img/Crack_Characteristics.JPG?raw=true" width="100%" height="100%">
+<br> <br>
