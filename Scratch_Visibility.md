@@ -4,11 +4,19 @@ Experimentally addressing scratch visibility has been effectively done through v
 
 The primary challenge in scratch visibility studies lies in the multidisciplinary nature of surface appearance research, encompassing physical properties and psychophysics. To study scratch visibility it is essential to understand how humans perceive and interact with various surface attributes and environments. The International Commission on Illumination (CIE) 2006 report on visual appearance defines it as "A visual sensation through which an object is perceived to have attributes such as size, shape, color, texture, gloss, transparency, opacity, etc.". Among these attributes, color, texture, gloss, and translucency are the major optical parameters defining appearance.
 <br> <br>
+Flat Sample
+<br> <br>
 ![Flat](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/5a069d86-dbaf-42e5-be26-d0e33c289ac4)
+<br> <br>
+Textured Sample
 <br> <br>
 ![Texture](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/fbb3e307-4229-458a-95c1-80f782d6b6e3)
 <br> <br>
+Colored Sample
+<br> <br>
 ![Color](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/efccc1ec-2078-4609-9405-7531938f7016)
+<br> <br>
+Glossy Sample
 <br> <br>
 ![Gloss](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/82121c03-43b1-46c2-b099-50ab8e13ea84)
 <br> <br>
