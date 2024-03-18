@@ -1,7 +1,7 @@
 
 Our primary objective was to investigate the formation mechanisms of wavy carbon nanofibers (CNFs) and nanocoils. These structures have garnered significant interest due to their unique properties, including high surface area, mechanical strength, and electrical conductivity. Understanding their formation process is crucial for tailoring their properties for practical applications.
 <br> <br>
-<img src="assets/img/methodology.jpg?raw=true" width="100%" height="100%">
+<img src="assets/img/Methodology.jpg?raw=true" width="100%" height="100%">
 <br> <br>
 Precursor Material Selection:
 We carefully selected precursor materials that play a pivotal role in determining the final structure of CNFs during carbonization.
