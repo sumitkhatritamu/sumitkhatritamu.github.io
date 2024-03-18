@@ -23,9 +23,9 @@
 <img src="assets/img/Algae.JPG?raw=true" width="100%" height="100%">
 
 <br><br>  
-### [Machine Learning based Scratch Characterization](Carbon_Nanofiber.md)
+### [Synthesis of Carbon Nanocoils via Precursor Constrained Microbuckling](Carbon_Nanofiber.md)
 <br>
-<img src="assets/img/Machine.JPG?raw=true" width="100%" height="100%">
+<img src="assets/img/Nanocoils.jpg?raw=true" width="100%" height="100%">
 
 <br><br>  
 ### [Machine Learning based Scratch Characterization](Machine_Learning.md)
