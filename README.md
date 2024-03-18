@@ -30,7 +30,7 @@
 <br><br>  
 ### [Kevlar/Epoxy Composite Fabrication and Unit Cell Homogenization in Abaqus](.md)
 <br>
-<img src="assets/img/.jpg?raw=true" width="100%" height="100%">
+<img src="assets/img/Kevlar.JPG?raw=true" width="100%" height="100%">
 
 <br><br>  
 ### [Machine Learning based Scratch Characterization](Machine_Learning.md)
