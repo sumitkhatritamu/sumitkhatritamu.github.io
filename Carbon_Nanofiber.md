@@ -38,4 +38,4 @@ Researchers can use this knowledge to design and synthesize materials with speci
 Discussion and Conclusion
 In summary, our research sheds light on the fascinating world of carbon nanofibers and their potential applications. By harnessing precursor materials and precisely controlling microbuckling, scientists can create intricate structures with tailored properties. These findings pave the way for innovative materials and devices in the realm of nanotechnology.
 
-For more detailed information, you can refer to the full article here .
+For more detailed information, you can refer to the full article here: https://www.sciencedirect.com/science/article/pii/S0022509619301164
