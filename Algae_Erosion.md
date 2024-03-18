@@ -27,4 +27,4 @@ Finite element method based simulation of algae shrinkage induced cracking in an
 ![AlgaeShrinkage-ezgif com-video-to-gif-converter](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/357cc076-0c4e-499c-ac85-99dfd782bc70)
 <br> <br>
 
-Note: This is a brief summary of the project. Due to copyright issues all the details can not be shared here.
+Note: This is a brief summary of the project. Due to copyright issues all the details can not be shared here. Further detials can be found in the following publication: www.sciencedirect.com/science/article/pii/S0300944023006689#:~:text=Acrylic%20roof%20coatings%20can%20absorb,cracking%20of%20the%20coating%20surface.
