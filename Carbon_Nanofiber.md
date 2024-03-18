@@ -1,7 +1,7 @@
 
 Our primary objective was to investigate the formation mechanisms of wavy carbon nanofibers (CNFs) and nanocoils. These structures have garnered significant interest due to their unique properties, including high surface area, mechanical strength, and electrical conductivity. Understanding their formation process is crucial for tailoring their properties for practical applications.
 <br> <br>
-<img src="assets/img/.JPG?raw=true" width="100%" height="100%">
+<img src="assets/img/methodolgy.jpg?raw=true" width="100%" height="100%">
 <br> <br>
 Precursor Material Selection:
 We carefully selected precursor materials that play a pivotal role in determining the final structure of CNFs during carbonization.
@@ -11,7 +11,7 @@ To induce wavy structures, we employed a controlled microbuckling technique.
 The process involved subjecting the precursor materials to mechanical deformation before carbonization.
 By precisely controlling the buckling parameters (such as strain, temperature, and time), we aimed to create periodic undulations in the resulting CNFs.
 <br> <br>
-<img src="assets/img/.JPG?raw=true" width="100%" height="100%">
+<img src="assets/img/Nanocoils.jpg?raw=true" width="100%" height="100%">
 <br> <br>
 Results and Observations
 Wavy CNFs:
@@ -23,7 +23,7 @@ In addition to wavy CNFs, we observed the formation of nanocoils.
 Nanocoils are helical structures that emerged during the carbonization process.
 Their unique geometry suggests potential applications in nanoelectronics, sensors, and energy storage devices.
 <br> <br>
-<img src="assets/img/.JPG?raw=true" width="100%" height="100%">
+<img src="assets/img/Mechanics.jpg?raw=true" width="100%" height="100%">
 <br> <br>
 Engineering Tailored Structures:
 Our findings provide insights into the controlled synthesis of wavy CNFs and nanocoils.
@@ -32,6 +32,8 @@ These tailored structures can find applications in various fields, including ene
 Fundamental Understanding:
 Our study contributes to the fundamental understanding of carbon nanomaterials.
 Researchers can use this knowledge to design and synthesize materials with specific functionalities.
+<br> <br>
+<img src="assets/img/Energy.jpg?raw=true" width="100%" height="100%">
 <br> <br>
 In summary, our research sheds light on the fascinating world of carbon nanofibers and their potential applications. By harnessing precursor materials and precisely controlling microbuckling, scientists can create intricate structures with tailored properties. These findings pave the way for innovative materials and devices in the realm of nanotechnology.
 
