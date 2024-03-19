@@ -32,7 +32,7 @@ These tailored structures can find applications in various fields, including ene
 <br> <br>
 <img src="assets/img/Energy.jpg?raw=true" width="100%" height="100%">
 <br> <br>
-The figure above shows the total strain energy retained in scenarios of sinusoidal and helical buckling of the contraction of a 400 nm fiber originally 6 cm in length. The mode shape with the lowest energy will be favored, this illustrates the evolution from sinusoidal to helical configuration due to the minimization of energy as the contraction goes from 10% to 60%. (All scale bars are set at 1μm).
+The figure above shows the total strain energy retained in scenarios of sinusoidal and helical buckling of the contraction of a 400 nm fiber originally 6 cm in length. The mode shape with the lowest energy will be favored. This illustrates the evolution from sinusoidal to helical configuration due to the minimization of energy as the contraction goes from 10% to 60%. (All scale bars are set at 1μm).
 <br> <br>
 This study contributes to the fundamental understanding of carbon nanomaterials.
 Researchers can use this knowledge to design and synthesize materials with specific functionalities. In summary, our research sheds light on the fascinating world of carbon nanofibers and their potential applications. By harnessing precursor materials and precisely controlling microbuckling, scientists can create intricate structures with tailored properties. These findings pave the way for innovative materials and devices in the realm of nanotechnology.
