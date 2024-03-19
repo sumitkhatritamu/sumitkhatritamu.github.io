@@ -25,10 +25,8 @@ Nanocoils:
 In addition to wavy CNFs, we observed the formation of nanocoils.
 Nanocoils are helical structures that emerged during the carbonization process.
 Their unique geometry suggests potential applications in nanoelectronics, sensors, and energy storage devices.
-<br> <br>
-<img src="assets/img/Mechanics.jpg?raw=true" width="100%" height="100%">
-<br> <br>
 Our findings provide insights into the controlled synthesis of wavy CNFs and nanocoils.
+<br> <br>
 By manipulating precursor material properties and precisely controlling the microbuckling process, researchers can engineer novel structures with desired properties.
 These tailored structures can find applications in various fields, including energy storage, lightweight materials, and nanoscale devices.
 <br> <br>
