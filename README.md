@@ -7,7 +7,7 @@
 
 
 <br><br>  
-### [Textured Polymer Scratch Modeling](Texture_Scratch.md)
+### [Textured Polymer Scratch Modeling with FEA & 3D Rendering](Texture_Scratch.md)
 <br>
 <img src="assets/img/Texture.JPG?raw=true" width="100%" height="100%">
 
@@ -18,7 +18,7 @@
 
 
 <br><br>  
-### [Algae Biofilm Induced Surface Erosion in Acrylic Coatings](Algae_Erosion.md)
+### [Algae Biofilm Induced Surface Erosion in Acrylic Coatings and Numerical Simulation](Algae_Erosion.md)
 <br>
 <img src="assets/img/Algae.JPG?raw=true" width="100%" height="100%">
 
