@@ -4,7 +4,7 @@ Our primary objective was to investigate the formation mechanisms of wavy carbon
 <img src="assets/img/Methodology.jpg?raw=true" width="100%" height="100%">
 <br> <br>
 Precursor Material Selection:
-We carefully selected precursor materials that play a pivotal role in determining the final structure of CNFs during carbonization.
+The precursor material plays a pivotal role in determining the final structure of CNFs during carbonization.
 The choice of precursor significantly influences the resulting morphology of CNFs.
 Controlled Microbuckling Technique:
 To induce wavy structures, we employed a controlled microbuckling technique.
