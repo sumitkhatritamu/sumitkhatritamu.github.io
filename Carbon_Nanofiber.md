@@ -3,6 +3,8 @@ Our primary objective was to investigate the formation mechanisms of wavy carbon
 <br> <br>
 <img src="assets/img/Methodology.jpg?raw=true" width="100%" height="100%">
 <br> <br>
+The Figure above illustrates the process of fabrication: A) The creation of electrospun PAN ribbons B) Application of PMMA through dip coating C) Formation of a PAN/PMMA nanocomposite D) Hot drawing to extend the material to stretch ratios (λ) of 3 and 5 E) Stabilization via entropic and chemical compression F) Development of sinusoidal and helical PAN fibers embedded in PMMA G) Extraction of PMMA H) The process of carbonization I) The final sinusoidal and helical carbon nanofibers.
+<br> <br>
 The precursor material plays a pivotal role in determining the final structure of CNFs during carbonization.
 The choice of precursor significantly influences the resulting morphology of CNFs.
 Controlled Microbuckling Technique:
@@ -11,6 +13,8 @@ The process involved subjecting the precursor materials to mechanical deformatio
 By precisely controlling the buckling parameters (such as strain, temperature, and time), we aimed to create periodic undulations in the resulting CNFs.
 <br> <br>
 <img src="assets/img/Nanocoils.jpg?raw=true" width="100%" height="100%">
+<br> <br>
+The figure above shows A) Straight fibers in alignment, with a close-up of a single fiber in the inset B) Sinusoidal fibers in alignment, with a close-up of a single fiber in the inset C) A helical fiber in alignment, with a close-up of a single fiber in the inset. (Note: The scale bars for the inset images are all set at 1μm)
 <br> <br>
 Wavy CNFs:
 Our experiments successfully led to the formation of wavy CNFs.
