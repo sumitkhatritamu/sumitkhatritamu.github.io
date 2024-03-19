@@ -2,7 +2,7 @@ A major factor influencing failures of water-based elastomeric roof coatings is 
 <br> <br>
 <img src="assets/img/Crack Progression.JPG?raw=true" width="100%" height="100%">
 <br> <br>
-The figure above shows the progression of mud cracks is depicted from the initial drying period (24 hours), illustrating the emergence of primary cracks. This leads to the development of more complex crack patterns after 4 and 28 cycles of wetting and drying, observed from the top-left to the bottom-right corner in sequence.
+The figure above shows the progression of mud cracks from the initial drying period (24 hours), illustrating the emergence of primary cracks. This leads to the development of more complex crack patterns after 4 and 28 cycles of wetting and drying, observed from the top-left to the bottom-right corner in sequence.
 <br> <br>
 Three distinct damage features in sequence were observed: (1) pit formation on the coating surfaces, (2) the biofilm mud-cracking induced coating surface damage upon drying, and (3) erosion (surface cracks) of coating in the mud-cracked region over the wet-dry cycles. 
 <br> <br>
