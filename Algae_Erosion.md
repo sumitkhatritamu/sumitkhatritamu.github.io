@@ -12,7 +12,7 @@ Adhesion of the biofilm to the coating surface, drying of the biofilm, and thick
 <br> <br>
 <img src="assets/img/Crack_Characteristics.JPG?raw=true" width="100%" height="100%">
 <br> <br>
-The Figure above shows a crack from erosion, coated in a pink-colored algae biofilm, highlights three key measurements: 1) Depth, 2) Width, and 3) Thickness of the Algae Biofilm
+The figure above shows a crack from erosion, coated in a pink-colored algae biofilm, highlights three key measurements: 1) Depth, 2) Width, and 3) Thickness of the Algae Biofilm
 <br> <br>
 <img src="assets/img/Effect of Algae Thickness.JPG?raw=true" width="100%" height="100%">
 Effect of Algae Thickness on crack width and depth.
