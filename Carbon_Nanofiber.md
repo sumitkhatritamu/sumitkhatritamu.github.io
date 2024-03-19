@@ -30,7 +30,7 @@ These tailored structures can find applications in various fields, including ene
 <br> <br>
 <img src="assets/img/Energy.jpg?raw=true" width="100%" height="100%">
 <br> <br>
-Our study contributes to the fundamental understanding of carbon nanomaterials.
+This study contributes to the fundamental understanding of carbon nanomaterials.
 Researchers can use this knowledge to design and synthesize materials with specific functionalities. In summary, our research sheds light on the fascinating world of carbon nanofibers and their potential applications. By harnessing precursor materials and precisely controlling microbuckling, scientists can create intricate structures with tailored properties. These findings pave the way for innovative materials and devices in the realm of nanotechnology.
 
 For more detailed information, you can refer to the full article here: [https://www.sciencedirect.com/science/article/pii/S0022509619301164
