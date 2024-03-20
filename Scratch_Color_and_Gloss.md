@@ -29,7 +29,14 @@ Additionally, The visibility simulation is able to capture the effect of angle o
 <br> <br>
 <img src="assets/img/Experimental vs Virtual.JPG?raw=true" width="100%" height="100%">
 <br> <br>
-Dark colors (Black, Red, Green and Blue) have similar low scratch visibility performance mainly due to enhanced shoulder visibility. Low gloss samples perform better than the high gloss ones in dark colors due to the shoulder visibility. White color improves scratch visibility resistance as the shoulder visibility gets masked by the white color for both low and high gloss samples. Virtual simulation is able to showcase all the experimental findings to a satisfactory level.
+Dark colors (Black, Red, Green and Blue) have similar low scratch visibility performance mainly due to enhanced shoulder visibility.
+<br> <br>
+Low gloss samples perform better than the high gloss ones in dark colors due to the shoulder visibility. 
+<br> <br>
+White color improves scratch visibility resistance as the shoulder visibility gets masked by the white color for both low and high gloss samples. 
+<br> <br>
+Virtual simulation is able to showcase all the experimental findings to a satisfactory level.
+<br> <br>
 The visibility simulation enables going beyond the experimental limitation of single axis of viewing angles and allows analysis in other possible scenarios.
 <br> <br>
 The details of the project have been kept minimal intentionally. Further details will be shared later.
