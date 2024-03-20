@@ -1,7 +1,5 @@
 
-A polymer sample's overall scratch performance involves a combination of scratch deformation resistance and visibility to the human eye. The effects of surface texture, optical properties like color and gloss, and the impact of lighting and viewing angles are often limited to costly experimental observations.
-
-Experimentally addressing scratch visibility has been effectively done through various standardized methods. One commonly used method involves an enclosed chamber (black box) with a light source having rotational freedom around a platform for the scratched sample. A top-fixed digital camera serves as the viewing device, while psychophysical tests can be concurrently conducted by trained individuals standing at a prescribed distance and observing the scratched surface at different orientations of the light source relative to the scratched sample. This setup offers comprehensive coverage of lighting orientation and viewing angles along one axis.
+The effects of optical & surface properties like color and gloss (correlated to surface roughness), and the impact of lighting and viewing angles on scratch visibiliy have been studied experimentally. By ultilizing the virtual scratch visiblity analysis cycle, all these factors can be studied parameterically. Here I have presented some results of a study done on polycarbonate samples with 5 colors and 2 gloss levels supplied by SABIC Innovative Plastics. The study entails the experimental scratch characterization and virtual replication of the same; essentially creating the digital twin for surface scratch.
 <br> <br>
 ## Methodology
 <br> <br>
