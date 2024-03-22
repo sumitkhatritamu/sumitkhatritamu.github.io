@@ -32,6 +32,6 @@ To address the fundamental issue mentioned above, we've introduced a virtual rea
 <br> <br>
 <img src="assets/img/Black_Box.JPG?raw=true" width="100%" height="100%">
 <br> <br>
-The physics based rendering is able to replicate the appearance factors like surface roughness, gloss, color and lighting with high fidelity. Utilizing this information we have sucessully utilized commerically available BRDFs to simulate scratch visiblity. We were able to not only combine the experimentally obtained scratch characteristics on 3D scannned scratches but also were able to expand it to Finite Element Method generated scratches. This enables us to create a virtual cycle of design-development-analysis-optimization of scratch performance in flat and textured polymers.
+The physics-based rendering can replicate the appearance factors like surface roughness, gloss, color, and lighting with high fidelity. Utilizing this information we have successfully utilized commercially available BRDFs to simulate scratch visibility. We were able to not only combine the experimentally obtained scratch characteristics on 3D scanned scratches but also were able to expand it to Finite Element Method generated scratches. This enables us to create a virtual cycle of design-development-analysis-optimization of scratch performance in flat and textured polymers.
 
-Note: This is a brief summary of the project. Due to copyright issues all the details can not be shared here.
+Note: This is a summary of the project. Due to copyright issues, all the details can not be shared here.
