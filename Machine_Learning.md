@@ -29,8 +29,10 @@ Regular evaluation on the validation set helped in tuning the model parameters, 
 After training, the model's performance was evaluated using the test set to assess its ability to accurately segment and localize scratches on new, unseen images.
 The precision matrix was used to quantify the model's segmentation performance.
 Based on the initial evaluation results, further fine-tuning and optimization of the model needs to be carried out. Till now model is trained only on scratches on black polycarbonate and TPO samples. This model will be expanded gradually to cover effect of color, gloss and texture also.
-<br><br>
-Results will be posted here soon....
+<br> <br>
+<img src="assets/img/Scratch_Detection.JPG?raw=true" width="100%" height="100%">
+<br> <br>
+More Results will be posted here soon....
 
 
 
