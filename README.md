@@ -1,7 +1,7 @@
 ## My Projects
 <br>
 
-## [Polymer Virtual Scratch Performance and Visibility Analysis](Scratch_Visibility.md)
+## [Polymer Virtual Scratch Performance and Visibility Analysis utilizin a Digital Twin](Scratch_Visibility.md)
 <br>
 ![Black_Box](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/5c6e5789-75aa-4360-9550-99f4f9314532)
 
