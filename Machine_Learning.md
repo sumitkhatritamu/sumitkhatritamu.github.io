@@ -12,7 +12,9 @@ Using LabelMe, an open-source annotation software, each image was carefully anno
 The JSON files from LabelMe were processed to extract the polygon coordinates for each scratch annotation.
 These coordinates were used to create binary mask images where the scratches were marked in white (value 1) on a black background (value 0), matching the dimensions of the corresponding source images.
 The original images and the generated binary masks formed a paired dataset, with each image having a corresponding mask to denote the location and shape of scratches.
-<br><br>
+<br> <br>
+<img src="assets/img/Masking.JPG?raw=true" width="100%" height="100%">
+<br> <br>
 ## 3. Model Configuration
 <br><br>
 A U-Net convolutional network was chosen for this task due to its proficiency in detailed image segmentation and its ability to capture fine features in images, such as surface scratches.
