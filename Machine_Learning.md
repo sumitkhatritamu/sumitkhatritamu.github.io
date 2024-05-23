@@ -33,7 +33,8 @@ After training, the model's performance was evaluated using the test set to asse
 <img src="assets/img/Scratch_Detection.JPG?raw=true" width="100%" height="100%">
 <br> <br>
 ## 6. Integration with Experiemntal Data
-The scratch normal load data from the scratch tester and length scale was integrated with the script. Now, the ML code can count the number of scratches, define their length and get the respective normal load at which scratch became visible using the experimental file.
+<br> <br>
+The scratch normal load data from the scratch tester and length scale was integrated with the script. Now, the ML code can count the number of scratches, define their length and get the respective normal load at which scratch became visible using the experimental data and the scratch detection by CNN.
 <br> <br>
 <img src="assets/img/Scratch_Load.JPG?raw=true" width="100%" height="100%">
 <br> <br>
