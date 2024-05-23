@@ -39,7 +39,8 @@ The scratch normal load data from the scratch tester and length scale was integr
 <br> <br>
 ## 7. Regression Analysis
 <br> <br>
-Next step is utilizing linear regression analysis to develop a weighted equation predicting Scratch Visibility Load. By analyzing the relationships between the dependent variable (Scratch Visibility Load) and the independent variables (Yield, Hardening adn Friction), each predictor's influence can be identified statistically. This will allow for accurate forecasting of scratch visibility load based on these material properties and conditions, optimizing the scratch performance of polymers. For example, image below shows linear regression applied on CNN results and experimental data available for a small set. 
+Next step is utilizing linear regression analysis to develop a weighted equation predicting Scratch Visibility Load. By analyzing the relationships between the dependent variable (Scratch Visibility Load) and the independent variables (Yield, Hardening adn Friction), each predictor's influence can be identified statistically. This will allow for accurate forecasting of scratch visibility load based on these material properties and conditions, optimizing the scratch performance of polymers. For example, image below shows linear regression applied on CNN results and experimental data available for a small set.
+<br> <br>
 <img src="assets/img/Regression.png?raw=true" width="100%" height="100%">
 <br> <br>
 Till now model is trained only on scratches on black polycarbonate and TPO samples. This model will be expanded gradually to cover effect of color, gloss and texture also. More Results will be posted here soon....
