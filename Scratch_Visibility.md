@@ -14,17 +14,17 @@ For an opaque flat plastic sample to be replicated virtually. Two main component
 ![Flat](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/5a069d86-dbaf-42e5-be26-d0e33c289ac4)
 <br> <br>
 ## Textured Sample
-For a textured sample, in addition to points above, capturing accurate surface topology in terms of grain size and shape is most important.
+For a textured sample, in addition to the points above, capturing accurate surface topology in terms of grain size and shape is most important.
 <br> <br>
 ![Texture](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/fbb3e307-4229-458a-95c1-80f782d6b6e3)
 <br> <br>
 ## Colored Sample
-Accurate color capture is a challenge but for scratch visbility characteristics, the lightness of color is most important factor. This can be referred as the Y coordinate in XYZ color space. ASTM Standard E308-22 acts as the basis for color capture.
+Accurate color capture is a challenge but for scratch visibility characteristics, the lightness of color is the most important factor. This can be referred to as the Y coordinate in XYZ color space. ASTM Standard E308-22 acts as the basis for color capture.
 <br> <br>
 ![Color](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/efccc1ec-2078-4609-9405-7531938f7016)
 <br> <br>
 ## Glossy Sample
-Gloss is closely related to surface roughness and resulting specular reflection. Specular reflection is highly dependent on the lighting and the viewing angle. This phenomenon can be replicated with the help of Fresnel curves. For dielectric materials like polymers, Fresenel effect can be apporximated by relying on Schlik's approximation and material index of refraction.
+Gloss is closely related to surface roughness and resulting specular reflection. Specular reflection is highly dependent on the lighting and the viewing angle. This phenomenon can be replicated with the help of Fresnel curves. For dielectric materials like polymers, Fresnel effect can be approximated by relying on Schlik's approximation and material index of refraction.
 <br> <br>
 ![Gloss](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/82121c03-43b1-46c2-b099-50ab8e13ea84)
 <br> <br>
