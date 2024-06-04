@@ -9,7 +9,7 @@ The first step to create a digital twin of the experimental scratch is capturing
 <br> <br>
 <img src="assets/img/Color_Measurement.JPG?raw=true" width="100%" height="100%">
 <br> <br>
-The surface roughness is different along the scratch and surrounding. Moreover, it varies along the linearly increasing load scratch path. The digital scratch is first divided in to scratch path and the surrounding area. Following, further subdivision of the scratch path to apply the varying roughness in different regions.
+The surface roughness is different along the scratch and surrounding. Moreover, it varies along the linearly increasing load scratch path. The digital scratch is first divided into the scratch path and the surrounding area. Following, further subdivision of the scratch path to apply the varying roughness in different regions.
 ## Preprocessing
 <br> <br>
 <img src="assets/img/Scratch_Preprocessing.JPG?raw=true" width="100%" height="100%">
