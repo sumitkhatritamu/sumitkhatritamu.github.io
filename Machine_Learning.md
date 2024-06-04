@@ -1,4 +1,4 @@
-The objective of this projet is to utilize a convolutional neural network (CNN) to identify and characterize the scratch generated on the polymeric surfaces.The CNN model is augmented with data generated using FEA and virtual reality-based scratch generation and visibility analysis. The trained CNN network then feeds the output to a reagression analysis for predicting scratch performance of a polymer based on its constitutive and optical properties.
+The objective of this project is to utilize a convolutional neural network (CNN) to identify and characterize the scratch generated on the polymeric surfaces. The CNN model is augmented with data generated using FEA and virtual reality-based scratch generation and visibility analysis. The trained CNN network then feeds the output to a regression analysis for predicting the scratch performance of a polymer based on its constitutive and optical properties.
 <br><br>
 In this regard, I trained a U-Net convolutional network for the task of segmenting and localizing surface scratches, the following process was followed:
 <br><br>
@@ -32,19 +32,19 @@ After training, the model's performance was evaluated using the test set to asse
 <br> <br>
 <img src="assets/img/Scratch_Detection.JPG?raw=true" width="100%" height="100%">
 <br> <br>
-## 6. Integration with Experiemntal Data
+## 6. Integration with Experimental Data
 <br> <br>
-The scratch normal load data from the scratch tester and length scale was integrated with the script. Now, the ML code can count the number of scratches, define their length and get the respective normal load at which scratch became visible using the experimental data and the scratch detection by CNN.
+The scratch normal load data from the scratch tester and length scale was integrated with the script. Now, the ML code can count the number of scratches, define their length and get the respective normal load at which the scratch became visible using the experimental data and the scratch detection by CNN.
 <br> <br>
 <img src="assets/img/Scratch_Load.JPG?raw=true" width="100%" height="100%">
 <br> <br>
 ## 7. Regression Analysis
 <br> <br>
-Next step is utilizing linear regression analysis to develop a weighted equation predicting Scratch Visibility Load. By analyzing the relationships between the dependent variable (Scratch Visibility Load) and the independent variables (Yield, Hardening and Friction), each predictor's influence can be identified statistically. This will allow for accurate forecasting of scratch visibility load based on these material properties and conditions, optimizing the scratch performance of polymers. For example, image below shows linear regression applied on CNN results and experimental data available for a small set.
+The next step is utilizing linear regression analysis to develop a weighted equation predicting Scratch Visibility Load. By analyzing the relationships between the dependent variable (Scratch Visibility Load) and the independent variables (Yield, Hardening, and Friction), each predictor's influence can be identified statistically. This will allow for accurate forecasting of scratch visibility load based on these material properties and conditions, optimizing the scratch performance of polymers. For example, the image below shows linear regression applied to CNN results and experimental data available for a small set.
 <br> <br>
 <img src="assets/img/Regression.png?raw=true" width="100%" height="100%">
 <br> <br>
-Till now model is trained only on scratches on black polycarbonate and TPO samples. This model will be expanded gradually to cover effect of color, gloss and texture also. More Results will be posted here soon....
+Till now model has been trained only on scratches on black polycarbonate and TPO samples. This model will be expanded gradually to cover the effects of color, gloss and texture. More Results will be posted here soon....
 
 
 
