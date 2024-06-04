@@ -1,4 +1,4 @@
-The objective of this project is to utilize a convolutional neural network (CNN) to identify and characterize the scratch generated on the polymeric surfaces. The CNN model is augmented with data generated using FEA and virtual reality-based scratch generation and visibility analysis. The trained CNN network then feeds the output to a regression analysis for predicting the scratch performance of a polymer based on its constitutive and optical properties.
+The objective of this project is to utilize a convolutional neural network (CNN) to identify and characterize the scratch generated on the polymeric surfaces. The CNN model is augmented with data generated using FEA and virtual reality-based scratch generation and visibility analysis. The trained CNN network then feeds the output to regression analysis for predicting the scratch performance of a polymer based on its constitutive and optical properties.
 <br><br>
 In this regard, I trained a U-Net convolutional network for the task of segmenting and localizing surface scratches, the following process was followed:
 <br><br>
