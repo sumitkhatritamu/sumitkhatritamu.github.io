@@ -30,9 +30,6 @@
 <br>
 <img src="assets/img/Nanofibers.jpg?raw=true" width="100%" height="100%">
 
-<br><br>  
-## [Kevlar/Epoxy Composite Fabrication and Unit Cell Homogenization in Abaqus](Kevlar.md)
-<br>
-<img src="assets/img/Kevlar.JPG?raw=true" width="100%" height="100%">
+
 
 
