@@ -22,4 +22,6 @@ The virtual scratch peformance analysis, once validated gives the freedom to do 
 <br> <br>
 ![Y05Xy-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3550d216-6844-4f3b-b947-bdaec0190b92)
 <br> <br>
+Once the FEA scratch is generated then the scratch masking perfomance of textures can be visualized with the help of virtual reality setup.
+
 Note: This is a summary of the project. Due to copyright issues, all the details can not be shared here.
