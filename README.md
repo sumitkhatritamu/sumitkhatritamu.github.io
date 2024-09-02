@@ -1,14 +1,14 @@
 ## My Projects
-<br>
-
-## [Polymer Virtual Scratch Performance and Visibility Analysis utilizing a Digital Twin](Scratch_Visibility.md)
-<br>
-![Black_Box](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/5c6e5789-75aa-4360-9550-99f4f9314532)
 
 <br><br>  
 ## [FEM modeling of Scratch on Textured Polymeric Surfaces and Visibility Simulation](Texture_Scratch.md)
 <br>
 <img src="assets/img/Texture.JPG?raw=true" width="100%" height="100%">
+<br><br> 
+
+## [Polymer Virtual Scratch Performance and Visibility Analysis utilizing a Digital Twin](Scratch_Visibility.md)
+<br>
+![Black_Box](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/5c6e5789-75aa-4360-9550-99f4f9314532)
 
 <br><br>  
 ## [Machine Learning based Scratch Indentification & Characterization](Machine_Learning.md)
