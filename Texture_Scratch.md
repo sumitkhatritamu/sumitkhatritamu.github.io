@@ -54,4 +54,4 @@ The virtual scratch peformance analysis, once validated gives the freedom to do 
 <br> <br>
 Once the FEA scratch is generated then the scratch masking perfomance of textures can be visualized with the help of virtual reality setup.
 
-Note: This is a summary of the project. Due to copyright issues, all the details can not be shared here.
+Note: This is a summary of the project. Due to copyright issues, all the details can not be shared here. For further details see this paper: https://www.sciencedirect.com/science/article/pii/S0032386124009315
