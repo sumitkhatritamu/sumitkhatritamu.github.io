@@ -16,15 +16,14 @@
 <img src="assets/img/PC_Scratch_Visibility.JPG?raw=true" width="100%" height="100%">-->
 
 <br><br>  
-## [Algae Biofilm Induced Surface Erosion in Acrylic Coatings and Numerical Simulation](Algae_Erosion.md)
-<br>
-<img src="assets/img/Algae.JPG?raw=true" width="100%" height="100%">
-
-<br><br>  
 ## [Synthesis of Carbon Nanocoils via Precursor Constrained Microbuckling and a Mechanics-based Justification](Carbon_Nanofiber.md)
 <br>
 <img src="assets/img/Nanofibers.jpg?raw=true" width="100%" height="100%">
 
 
+<br><br>  
+## [Algae Biofilm Induced Surface Erosion in Acrylic Coatings and Numerical Simulation](Algae_Erosion.md)
+<br>
+<img src="assets/img/Algae.JPG?raw=true" width="100%" height="100%">
 
 
