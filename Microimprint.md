@@ -15,7 +15,7 @@ Holes
 COF simulations take into account the effect of the contact area on the tangential sliding resistance.
 <br> <br>
 ## Indentation Simulation
-Scratch on a surface is composed of an indentation with sliding. As the indenter pushes down, the air entrapped in the holes gets compressed, giving additional resistance to indentation.
+A scratch on a surface is composed of an indentation with sliding. As the indenter pushes down, the air entrapped in the holes gets compressed, giving additional resistance to indentation.
 <br> <br>
 ![media1](https://github.com/user-attachments/assets/94a01cf7-27d4-4527-84d0-cf4dbbdd3929)
 <br> <br>
@@ -24,6 +24,6 @@ Scratch on a surface is composed of an indentation with sliding. As the indenter
 <img src="assets/img/Air_Resistance.PNG?raw=true" width="100%" height="100%">
 <br> <br>
 
-Simulations indicate that COF reduction should be more pronounced in pillar structures than in holes; however, pillars shear off under low loads, negating their initial advantage. The combined effects of COF reduction and the air cushion phenomenon make holes particularly effective for scratch resistance, and optimizing this effect by designing smaller holes is a promising future research direction.
+Simulations indicate that COF reduction should be more pronounced in pillar structures than in holes; however, pillars shear off under low loads, negating their initial advantage. The combined effects of COF reduction and the air cushion phenomenon make holes particularly effective for scratch resistance, and optimizing this effect by designing holes is a promising future research direction.
 
 Note: This is a summary of the project, and the models are not the final, refined version due to copyright issues.
