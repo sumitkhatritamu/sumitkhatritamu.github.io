@@ -15,6 +15,7 @@ Holes
 COF simulations take into account the effect of the contact area on the tangential sliding resistance.
 <br> <br>
 ## Indentation Simulation
+Scratch on a surface is composed of an indentation with sliding. As the indenter pushes down, the air entrapped in the holes gets compressed, giving additional resistance to indentation.
 <br> <br>
 ![media1](https://github.com/user-attachments/assets/94a01cf7-27d4-4527-84d0-cf4dbbdd3929)
 <br> <br>
