@@ -3,7 +3,7 @@ Polymers are inherently scratch-sensitive due to their soft nature. Utilizing pa
 ## Materials & Experimental Scratch Testing
 The model system was a polycarbonate film imprinted with two micro-patterns: 1) holes and 2) pillars of equivalent dimensions and distribution. Scratch tests were carried out according to ASTM D7027-13 / ISO 19252:08, with a vacuum fixture and PC backing used to fix the film samples during testing. 
 <br> <br>
-<img src="assets/img/FEM_Methodology.JPG?raw=true" width="100%" height="100%">
+<img src="https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/blob/main/assets/img/Render.PNG" width="100%" height="100%">
 <br> <br>
 ## COF Simulation
 <br> <br>
