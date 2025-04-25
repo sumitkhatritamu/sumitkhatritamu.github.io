@@ -24,4 +24,4 @@ COF simulations take into account the effect of the contact area on the tangenti
 
 Simulations indicate that COF reduction should be more pronounced in pillar structures than in holes; however, pillars shear off under low loads, negating their initial advantage. The combined effects of COF reduction and the air cushion phenomenon make holes particularly effective for scratch resistance, and optimizing this effect by designing smaller holes is a promising future research direction.
 
-Note: This is a summary of the project, and the models are not the final refined version.
+Note: This is a summary of the project, and the models are not the final, refined version due to copyright issues.
