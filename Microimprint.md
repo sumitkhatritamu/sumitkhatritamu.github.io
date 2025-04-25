@@ -7,7 +7,7 @@ The model system was a polycarbonate film imprinted with two types of micro-patt
 <br> <br>
 ## COF Simulation
 <br> <br>
-![Flat]([https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/01085ec2-2ec8-4e57-be01-5af2cd9e6786](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/blob/main/assets/videos/Flat.gif))
+![Flat](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/blob/main/assets/videos/Flat.gif)
 <br> <br>
 ![Texture](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/assets/159637141/f88cf48e-71f6-407f-b123-11ffe29865fa)
 <br> <br>
