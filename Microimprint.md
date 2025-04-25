@@ -7,13 +7,10 @@ The model system was a polycarbonate film imprinted with two micro-patterns: 1) 
 <br> <br>
 ## COF Simulation
 ![Flat](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/blob/main/assets/videos/Flat.gif)
-<br> <br>
 ## Pillars
 ![Pillars](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/blob/main/assets/videos/Pillars.gif)
 ## Holes
-<br> <br>
 ![Holes](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/blob/main/assets/videos/Holes.gif)
-<br> <br>
 COF simulations take into account the effect of the contact area on the tangential sliding resistance.
 <br> <br>
 ## Indentation Simulation
