@@ -3,7 +3,7 @@ Polymers are inherently scratch-sensitive due to their soft nature. Utilizing pa
 ## Materials & Experimental Scratch Testing
 The model system was a polycarbonate film imprinted with two micro-patterns: 1) holes and 2) pillars of equivalent dimensions and distribution. Scratch tests were carried out according to ASTM D7027-13 / ISO 19252:08, with a vacuum fixture and PC backing used to fix the film samples during testing. 
 <br> <br>
-<img src="https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/blob/main/assets/img/Render.PNG" width="100%" height="100%">
+<img src="assets/img/Scratch_Render.PNG?raw=true" width="100%" height="100%">
 <br> <br>
 ## COF Simulation
 ![Flat](https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/blob/main/assets/videos/Flat.gif)
@@ -19,7 +19,7 @@ COF simulations take into account the effect of the contact area on the tangenti
 <br> <br>
 ## Results
 <br> <br>
-<img src="https://github.com/sumitkhatritamu/sumitkhatritamu.github.io/blob/main/assets/img/Air_Resistance.PNG" width="100%" height="100%">
+<img src="assets/img/Scratch_Air_Resistance.PNG?raw=true" width="100%" height="100%">
 <br> <br>
 
 Simulations indicate that COF reduction should be more pronounced in pillar structures than in holes; however, pillars shear off under low loads, negating their initial advantage. The combined effects of COF reduction and the air cushion phenomenon make holes particularly effective for scratch resistance, and optimizing this effect by designing smaller holes is a promising future research direction.
