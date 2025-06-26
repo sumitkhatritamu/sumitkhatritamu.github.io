@@ -13,7 +13,7 @@
 <br><br>  
 ## [Modeling the Effect of Microimprinting on Scratch Resistance of Coatings](Microimprint.md)
 <br>
-<img src="assets/img/Render.PNG?raw=true" width="100%" height="100%">
+<img src="assets/img/Graphical abstract.png?raw=true" width="100%" height="100%">
 
 <!--<br><br>  
 ## [Modeling the Effect of Color and Gloss on Scratch Visibility](Scratch_Color_and_Gloss.md)
