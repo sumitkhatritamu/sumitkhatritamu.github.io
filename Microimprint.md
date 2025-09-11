@@ -26,4 +26,4 @@ A scratch on a surface is composed of an indentation with sliding. As the indent
 
 Simulations indicate that COF reduction should be more pronounced in pillar structures than in holes; however, pillars shear off under low loads, negating their initial advantage. The combined effects of COF reduction and the air cushion phenomenon make holes particularly effective for scratch resistance, and optimizing this effect by designing holes is a promising future research direction.
 
-Note: This is a summary of the project, and the models are not the final, refined version due to copyright issues.
+Details can be found in the published paper:https://link.springer.com/article/10.1007/s11249-025-02063-3 
