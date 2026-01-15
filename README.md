@@ -1,4 +1,8 @@
 ## My Projects
+<br><br>  
+## [Scratch Behavior of Micro-patterned Polycarbonate Films](Microimprint.md)
+<br>
+<img src="assets/img/Graphical Abstract.png?raw=true" width="100%" height="100%">
 
 <br><br>  
 ## [FEM modeling of Scratch on Textured Polymeric Surfaces and Visibility Simulation](Texture_Scratch.md)
@@ -9,11 +13,6 @@
 ## [Machine Learning based Scratch Indentification & Characterization](Machine_Learning.md)
 <br>
 <img src="assets/img/Machine.JPG?raw=true" width="100%" height="100%">
-
-<br><br>  
-## [Scratch Behavior of Micro-patterned Polycarbonate Films](Microimprint.md)
-<br>
-<img src="assets/img/Graphical Abstract.png?raw=true" width="100%" height="100%">
 
 <!--<br><br>  
 ## [Modeling the Effect of Color and Gloss on Scratch Visibility](Scratch_Color_and_Gloss.md)
